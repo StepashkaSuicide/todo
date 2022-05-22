@@ -12,7 +12,7 @@ function App() {
                 </div>
                 <ul>
                     <li><input type="checkbox" defaultChecked/> <span>HTML&CSS</span></li>
-                    <li><input type="checkbox" defaultChecked/> <span>JS</span></li>
+                    <li><input type="checkbox" defaultChecked/> <span>JSX</span></li>
                     <li><input type="checkbox" defaultChecked/> <span>React</span></li>
                 </ul>
                 <div>
